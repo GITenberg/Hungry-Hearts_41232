@@ -1,0 +1,30 @@
+_repo: Hungry-Hearts_41232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yezierska, Anzia
+    deathdate: 1970
+    gutenberg_agent_id: '41057'
+    url: http://www.gutenberg.org/2009/agents/41057
+description: ''
+gutenberg_issued: '2012-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41232'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- New York (State) -- New York -- Fiction'
+- !lcsh 'Jewish fiction'
+- !lcsh 'Lower East Side (New York, N.Y.) -- Fiction'
+- !lcc 'PS'
+tableOfContents: Wings -- Hunger -- The lost "beautifulness" -- The free vacation
+  house -- The miracle -- Where lovers dream -- Soap and water -- "The fat of the
+  land" -- My own people -- How I found America.
+title: Hungry Hearts
+url: http://www.gutenberg.org/ebooks/41232
